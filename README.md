@@ -32,7 +32,7 @@ pkg install python git -y
 pip install requests rich pyfiglet bs4 faker
 git clone https://github.com/DHThackers-10/DHT-IGBRUTE.git
 cd DHT-IGBRUTE
-python3 dht_igbrute.py
+python3 dht_igbrut.py
 ```
 
 ---
