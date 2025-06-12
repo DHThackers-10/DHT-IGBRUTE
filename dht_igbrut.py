@@ -132,7 +132,7 @@ def main():
     global found
     dht_hackers_banner()
     igbrut_tool_banner()
-    0username = Prompt.ask("[cyan]Enter Instagram Username[/cyan]").strip()
+    username = Prompt.ask("[cyan]Enter Instagram Username[/cyan]").strip()
     auto_mode = Prompt.ask("[cyan]Use Auto Wordlist? (y/n)[/cyan]").strip().lower()
 
     if auto_mode == "y":
